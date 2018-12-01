@@ -4,7 +4,7 @@
 
 ## Task 0:
 ### Git and GitHub
-"How to use Git and GitHub" course from Udacity was a really useful for me. Sarah and Carolyne explained  basic ideas  of git and github. Content map was really useful to me.  I'll  continue study git becouse to me realy interesting how use git in real projects.  And one more - I want share this course:
+"How to use Git and GitHub" course from Udacity was interesting and give new knowledge to me. Sarah and Carolyn explained basic ideas of Git and GitHub. Content map was really useful, but I am still has some questions about merge conflicts. I will continue study Git because to me really interesting learn something about using Git in real projects.  And one more - I want share this course:
 ###### [Git How To](https://githowto.com/ru)
 ![Git&GitHub_is_done](img/git.png)
 
