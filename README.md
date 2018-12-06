@@ -9,8 +9,13 @@
 ###### [Git How To](https://githowto.com/ru)
 ![Git&GitHub_is_done](img/git.png)
 
-## Task 1: Learn the Command Line
+## Task 1: Learn the Command Line.
 
 ![Git&GitHub_is_done](img/bash.png)
+
+## Task 2: Git for Team Collaboration.
+
+![Git&GitHub_is_done](img/what-is-vs.png)
+![Git&GitHub_is_done](img/collaboration.png)
 
 
