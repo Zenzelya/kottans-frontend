@@ -15,7 +15,12 @@
 
 ## Task 2: Git for Team Collaboration.
 
-![Git&GitHub_is_done](img/what-is-vs.png)
-![Git&GitHub_is_done](img/collaboration.png)
+![what is VS](img/what-is-vs.png)
+![Team Collaboration](img/collaboration.png)
+
+## Task 3: Intro to HTML and CSS.
+
+![Intro to HTML and CSS](img/htmlsps.png)
+
 
 
