@@ -24,5 +24,7 @@
 ![Intro to HTML and CSS](img/html-basics.png)
 ![Intro to HTML and CSS](img/css-basics.png)
 
+## Task 4: Responsive Web Designs
 
-
+![Responsive Web Design Fundamentals](img/response.png)
+![Frogs](img/flex-frog.png)
