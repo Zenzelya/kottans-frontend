@@ -21,6 +21,8 @@
 ## Task 3: Intro to HTML and CSS.
 
 ![Intro to HTML and CSS](img/htmlsps.png)
+![Intro to HTML and CSS](img/html-basics.png)
+![Intro to HTML and CSS](img/css-basics.png)
 
 
 
