@@ -28,3 +28,10 @@
 
 ![Responsive Web Design Fundamentals](img/response.png)
 ![Frogs](img/flex-frog.png)
+
+## Task 5: JavaScript Basics
+
+![Intro to JS](img/js_base.png)
+![Data Structures and Algorithms in JavaScript](img/js_data.png)
+![freecodecamp Algorithm Scripting Challenges](img/js_11.png)
+
